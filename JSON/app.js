@@ -1,0 +1,1 @@
+const data = `{"ticker":{"base":"BTC","target":"USD","price":"21981.82651515","volume":"5843.25419631","change":"7.60349384"},"timestamp":1678340944,"success":true,"error":""}`
